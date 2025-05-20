@@ -1,0 +1,51 @@
+date,source,page,sessions,bounce_rate
+2023-01-02,Paid Search,Home,809,0.47
+2023-01-02,Referral,Product,776,0.22
+2023-01-03,Organic,Checkout,596,0.64
+2023-01-03,Social,Contact,358,0.52
+2023-01-04,Organic,Contact,486,0.25
+2023-01-07,Organic,Blog,663,0.53
+2023-01-08,Referral,Home,447,0.65
+2023-01-09,Referral,Product,609,0.48
+2023-01-09,Direct,Blog,180,0.37
+2023-01-11,Paid Search,Blog,476,0.54
+2023-01-11,Referral,Checkout,484,0.32
+2023-01-12,Social,Contact,333,0.21
+2023-01-14,Direct,Blog,712,0.65
+2023-01-15,Organic,Contact,791,0.37
+2023-01-15,Referral,Home,739,0.23
+2023-01-16,Social,Checkout,332,0.27
+2023-01-18,Direct,Home,485,0.32
+2023-01-19,Direct,Home,289,0.44
+2023-01-21,Organic,Product,324,0.5
+2023-01-21,Referral,Blog,572,0.32
+2023-01-21,Organic,Product,367,0.61
+2023-01-22,Paid Search,Checkout,783,0.46
+2023-01-22,Paid Search,Checkout,458,0.52
+2023-01-23,Organic,Contact,324,0.69
+2023-01-24,Referral,Contact,555,0.25
+2023-01-24,Referral,Checkout,844,0.38
+2023-01-24,Referral,Checkout,382,0.58
+2023-01-25,Paid Search,Blog,926,0.52
+2023-01-25,Direct,Blog,212,0.65
+2023-01-26,Social,Blog,798,0.37
+2023-01-27,Referral,Blog,771,0.55
+2023-01-28,Referral,Contact,571,0.67
+2023-01-29,Paid Search,Product,430,0.45
+2023-01-30,Paid Search,Checkout,748,0.36
+2023-02-02,Social,Blog,918,0.54
+2023-02-05,Paid Search,Checkout,732,0.32
+2023-02-06,Organic,Checkout,541,0.33
+2023-02-07,Referral,Home,417,0.29
+2023-02-08,Direct,Contact,906,0.46
+2023-02-08,Social,Product,330,0.27
+2023-02-08,Social,Product,897,0.5
+2023-02-09,Paid Search,Home,727,0.56
+2023-02-11,Referral,Contact,707,0.39
+2023-02-12,Referral,Blog,605,0.34
+2023-02-13,Social,Contact,929,0.66
+2023-02-13,Social,Home,763,0.31
+2023-02-13,Paid Search,Product,510,0.62
+2023-02-16,Social,Blog,212,0.26
+2023-02-18,Organic,Contact,473,0.29
+2023-02-19,Organic,Blog,724,0.52
